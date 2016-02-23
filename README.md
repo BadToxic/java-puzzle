@@ -1,5 +1,9 @@
 # Java Puzzle
 
+[Java Puzzle on my homepage](http://badtoxic.de/wordpress/edutainment/java-puzzle "Java Puzzle Site")
+
+----
+
 A Java-written text-based slide puzzle game.  
 It only works on the console and uses a sorted array of numbers, instead of an image.  
 It simple operates on a 2D array and the input and output happens on the console, which lends itself great to exercise in the first semester of a computer science study.  
@@ -25,3 +29,7 @@ Ein gelöstes Spielfeld der Größe 3x3 sieht aus wie folgt:
 1  2  3  
 4  5  6  
 7  8  0  
+
+----
+
+![Screenshot of the game](https://github.com/BadToxic/java-puzzle/blob/master/PuzzleScreen.png "Screenshot of the game")
